@@ -1,0 +1,93 @@
+body
+{
+  color: rgb(0, 0, 0);
+  background: #c99871;
+  background-image: url(36-scaled.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.header_div
+  {
+ font-size: 35px;
+  color: rgb(0, 0, 0); 
+  }
+
+
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 10px double black;
+  width: 360px;
+  height: 300px; 
+}
+
+#camera
+{
+  border: 10px ;
+  width: 500px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+#p1{
+  color: rgb(41, 56, 36);
+
+}
+
+#p1 span{
+    font-size:23px ;
+}
+
+#p2{
+  color: rgb(0, 0, 0);
+}
+
+#p3{
+  color: rgb(80, 40, 40);
+}
+
+#lol1{
+    color: black;
+    font-size: 25px;
+}
+
+#lol2{
+    color: black;
+    font-size: 25px;
+}
+
+#lol3{
+    color: rgb(255, 81, 0);
+    font-size: 25px;
+}
+
+#lol4{
+    color: rgb(255, 98, 0);
+    font-size: 25px;
+}
+
+button{
+  background-color: rgb(255, 77, 0);
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  border-radius: 10px;
+}
+
