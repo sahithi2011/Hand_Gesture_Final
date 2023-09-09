@@ -28,12 +28,7 @@ span
   height: 300px; 
 }
 
-#camera
-{
-  border: 10px ;
-  width: 500px;
-  height: 300px; 
-}
+
 #result_emotion_name ,#result_emotion_name2  
 {
   color: black;
